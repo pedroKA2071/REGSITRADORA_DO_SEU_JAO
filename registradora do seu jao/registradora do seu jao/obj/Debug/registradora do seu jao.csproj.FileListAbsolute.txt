@@ -1,0 +1,7 @@
+C:\Users\pedro.hgaspar2\source\Repos\REGSITRADORA_DO_SEU_JAO\registradora do seu jao\registradora do seu jao\bin\Debug\registradora do seu jao.exe.config
+C:\Users\pedro.hgaspar2\source\Repos\REGSITRADORA_DO_SEU_JAO\registradora do seu jao\registradora do seu jao\bin\Debug\registradora do seu jao.exe
+C:\Users\pedro.hgaspar2\source\Repos\REGSITRADORA_DO_SEU_JAO\registradora do seu jao\registradora do seu jao\bin\Debug\registradora do seu jao.pdb
+C:\Users\pedro.hgaspar2\source\Repos\REGSITRADORA_DO_SEU_JAO\registradora do seu jao\registradora do seu jao\obj\Debug\registradora do seu jao.csproj.AssemblyReference.cache
+C:\Users\pedro.hgaspar2\source\Repos\REGSITRADORA_DO_SEU_JAO\registradora do seu jao\registradora do seu jao\obj\Debug\registradora do seu jao.csproj.CoreCompileInputs.cache
+C:\Users\pedro.hgaspar2\source\Repos\REGSITRADORA_DO_SEU_JAO\registradora do seu jao\registradora do seu jao\obj\Debug\registradora do seu jao.exe
+C:\Users\pedro.hgaspar2\source\Repos\REGSITRADORA_DO_SEU_JAO\registradora do seu jao\registradora do seu jao\obj\Debug\registradora do seu jao.pdb
